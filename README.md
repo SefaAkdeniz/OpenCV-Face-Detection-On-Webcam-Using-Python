@@ -2,7 +2,7 @@
 <b>Used Programming Language :Python</b><br>
 <b>Used Libraries</b>
 <ol>
- <li>OpenCV (Numerical Python)</li>
+ <li>OpenCV</li>
 </ol>
 <h2>Install</h2>
 <h3><code>pip instal opencv-python</code></h3>
