@@ -1,4 +1,4 @@
-# OpenCV-Face-Detection-On-Webcam-Using-Python
+# OpenCV Face Detection on Webcam Using Python
 <b>Used Programming Language :Python</b><br>
 <b>Used Libraries</b>
 <ol>
