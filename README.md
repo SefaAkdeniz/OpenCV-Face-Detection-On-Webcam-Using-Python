@@ -5,6 +5,6 @@
  <li>OpenCV</li>
 </ol>
 <h2>Install</h2>
-<h3><code>pip instal opencv-python</code></h3>
+<h3><code>pip install opencv-python</code></h3>
 <br>
 <b>Other Haarcascades Files👉🏻 <a href="https://github.com/opencv/opencv/tree/master/data/haarcascades">OpenCV GitHub Repos</a></b>
